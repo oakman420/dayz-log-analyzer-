@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DayZ Log Analyzer AI",
+  "description": "An intelligent tool that analyzes DayZ server log files using the Gemini API to identify errors, explain their causes, and provide actionable solutions to help server administrators troubleshoot issues efficiently.",
+  "requestFramePermissions": []
+}
